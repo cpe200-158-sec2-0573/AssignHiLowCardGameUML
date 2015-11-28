@@ -4,5 +4,6 @@
 ###### Due date: 10/30/2015 17:00:00 PM
 
  Student ID: 570610XXX
- 
  ![uml-diagrams](http://www.uml-diagrams.org/examples/class-diagram-example-hasp-licensing-domain.png)
+
+
